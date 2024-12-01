@@ -7,4 +7,5 @@ an automatic emailer system using google apps script
 3. wait for the "Send Emails" menu item to appear and click it
 4. click "Generate Emails" and wait for your response!
 
-https://docs.google.com/spreadsheets/d/1WqqbKZEMEFJIVThsAj29aMkNAKvT7Dj9WPsvXTaTTwA/edit?usp=sharing
+### Important links
+- Project link: https://docs.google.com/spreadsheets/d/1WqqbKZEMEFJIVThsAj29aMkNAKvT7Dj9WPsvXTaTTwA/edit?usp=sharing
