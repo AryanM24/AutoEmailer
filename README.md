@@ -9,3 +9,4 @@ an automatic emailer system using google apps script
 
 ### Important links
 - Project link: https://docs.google.com/spreadsheets/d/1WqqbKZEMEFJIVThsAj29aMkNAKvT7Dj9WPsvXTaTTwA/edit?usp=sharing
+- Demo Video: https://youtu.be/3JGpUJh3iBc
